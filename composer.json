@@ -1,5 +1,5 @@
 {
-    "name": "atymic/twitter",
+    "name": "ejunker/twitter",
     "description": "Twitter API for PHP & Laravel",
     "keywords": ["twitter", "laravel", "laravel5", "laravel6"],
     "license": "MIT",
